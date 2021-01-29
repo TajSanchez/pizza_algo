@@ -9,3 +9,4 @@ make sure order is correct
 pay order with debit card
 hang up phone
 drive to pizza place
+open door
