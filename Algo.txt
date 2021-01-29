@@ -5,3 +5,4 @@ add chesse
 add pepperoni
 add green peppers
 add olives
+make sure order is correct
