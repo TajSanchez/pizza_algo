@@ -6,3 +6,4 @@ add pepperoni
 add green peppers
 add olives
 make sure order is correct
+pay order with debit card
