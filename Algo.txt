@@ -4,3 +4,4 @@ order medium pizza
 add chesse
 add pepperoni
 add green peppers
+add olives
